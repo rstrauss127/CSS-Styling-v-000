@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 # CSS Styling Code Along
 
 ## Objectives
